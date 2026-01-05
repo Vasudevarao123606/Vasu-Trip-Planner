@@ -1,1 +1,1 @@
-# Vasu-Trip-Planner
+# Trip-Planner
